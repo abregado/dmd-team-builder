@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Ahmed Yasin",
+    "season": "Season 1",
+    "abilities": [
+      "Stealth",
+      "Arcane Mastery"
+    ]
+  },
+  {
+    "name": "Borden",
+    "season": "Season 1",
+    "abilities": [
+      "Swiftness",
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Elizabeth Ives",
+    "season": "Season 1",
+    "abilities": [
+      "Marksman",
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Fatima Safar",
+    "season": "Season 1",
+    "abilities": [
+      "Arcane Mastery",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "John Morgan",
+    "season": "Season 1",
+    "abilities": [
+      "Swiftness",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Lord Adam Benchley",
+    "season": "Season 1",
+    "abilities": [
+      "Marksman",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Rasputin",
+    "season": "Season 1",
+    "abilities": [
+      "Arcane Mastery",
+      "Brawling"
+    ]
+  },
+  {
+    "name": "Ian Welles",
+    "season": "Season 1",
+    "abilities": [
+      "Brawling",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Sister Beth",
+    "season": "Season 1",
+    "abilities": [
+      "Brawling",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "The Kid",
+    "season": "Season 1",
+    "abilities": [
+      "Marksman",
+      "Arcane Mastery"
+    ]
+  },
+  {
+    "name": "Adilah Vidal",
+    "season": "Season 2",
+    "abilities": [
+      "Brawling",
+      "Arcane Mastery"
+    ]
+  },
+  {
+    "name": "Alex Parker",
+    "season": "Season 2",
+    "abilities": [
+      "Stealth",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Ariele Venturi",
+    "season": "Season 2",
+    "abilities": [
+      "Marksman",
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Father Luke",
+    "season": "Season 2",
+    "abilities": [
+      "Arcane Mastery",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Halia Hovath",
+    "season": "Season 2",
+    "abilities": [
+      "Stealth",
+      "Arcane Mastery"
+    ]
+  },
+  {
+    "name": "Tony Boyle",
+    "season": "Season 2",
+    "abilities": [
+      "Brawling",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Margarethe Richter",
+    "season": "Season 2",
+    "abilities": [
+      "Stealth",
+      "Brawling"
+    ]
+  },
+  {
+    "name": "Mary Diaz",
+    "season": "Season 2",
+    "abilities": [
+      "Marksman",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Sam Wood",
+    "season": "Season 2",
+    "abilities": [
+      "Swiftness",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Mario Braghieri",
+    "season": "Season 2",
+    "abilities": [
+      "Marksman",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Agatha May",
+    "season": "Season 3",
+    "abilities": [
+      "Marksman",
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Huikong",
+    "season": "Season 3",
+    "abilities": [
+      "Swiftness",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Jakub Peters",
+    "season": "Season 3",
+    "abilities": [
+      "Brawling",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Julien Dulik",
+    "season": "Season 3",
+    "abilities": [
+      "Stealth",
+      "Arcane Mastery"
+    ]
+  },
+  {
+    "name": "Leon Barnes",
+    "season": "Season 3",
+    "abilities": [
+      "Marksman",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Mike Kozlov",
+    "season": "Season 3",
+    "abilities": [
+      "Brawling",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Ruth Weber",
+    "season": "Season 3",
+    "abilities": [
+      "Stealth",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Sally Withers",
+    "season": "Season 3",
+    "abilities": [
+      "Arcane Mastery",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Sandra Atkinson",
+    "season": "Season 3",
+    "abilities": [
+      "Brawling",
+      "Arcane Mastery"
+    ]
+  },
+  {
+    "name": "Stella Fontaine",
+    "season": "Season 3",
+    "abilities": [
+      "Arcane Mastery",
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Aniko Biko",
+    "season": "Season 4",
+    "abilities": [
+      "Arcane Mastery",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Bruno Vitale",
+    "season": "Season 4",
+    "abilities": [
+      "Brawling",
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Gary West",
+    "season": "Season 4",
+    "abilities": [
+      "Swiftness",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "John Fernsby",
+    "season": "Season 4",
+    "abilities": [
+      "Marksman",
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Rosario Guerra",
+    "season": "Season 4",
+    "abilities": [
+      "Marksman",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Sylvia Doyle",
+    "season": "Season 4",
+    "abilities": [
+      "Brawling",
+      "Arcane Mastery"
+    ]
+  },
+  {
+    "name": "Albert Einstein",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Arcane Mastery",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Al Capone",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Marksman",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Ernest Hemingway",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Marksman",
+      "Arcane Mastery"
+    ]
+  },
+  {
+    "name": "Fleur Dubois",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Marksman",
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Julia Hollister",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Swiftness",
+      "Brawling"
+    ]
+  },
+  {
+    "name": "Josephine Leclerc",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Marksman",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Gonk",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Brawling",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Maxin Grey",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Arcane Mastery",
+      "Brawling"
+    ]
+  },
+  {
+    "name": "Maki Smith",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Marksman",
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Meryl Starling",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Arcane Mastery",
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Olivia Duchamp",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Stealth",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Vincent Haas",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Arcane Mastery",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Pops' Duperon",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Arcane Mastery",
+      "Toughness"
+    ]
+  },
+  {
+    "name": "Richard Irons",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Toughness",
+      "Swiftness"
+    ]
+  },
+  {
+    "name": "Roxie Mitchell Williams",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Toughness",
+      "Brawling"
+    ]
+  },
+  {
+    "name": "Tina Macshane",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Stealth",
+      "Brawling"
+    ]
+  },
+  {
+    "name": "Walter Bagget",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Arcane Mastery",
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Margie Westmoreland",
+    "season": "Unspeakable Box",
+    "abilities": [
+      "Arcane Mastery",
+      "Swiftness"
+    ]
+  }
+]
